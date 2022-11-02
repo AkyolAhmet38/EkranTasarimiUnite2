@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobilUygulamalar</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="buttone">Button</string>
+    <string name="textviewE">TextView</string>
+    <string name="e_postan_z_buraya_yaz_n_z">E-postanızı buraya yazınız</string>
+</resources>
